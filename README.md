@@ -3,4 +3,5 @@ Worked with an Arduino Uno to program LED displays for creating graphical repres
 Skills: C++, Arduino Uno, Embedded Systems
 
 
-![large space invaders](https://github.com/dtrobles/ArduinoSpaceInvaders/assets/159510753/3e6acada-5c41-4572-8c42-4b9a74a3c42d)
+![large space invaders](https://github.com/dtrobles/ArduinoSpaceInvaders/assets/159510753/3a466ee5-4c22-4071-bacc-06e9e5ec5733)
+
